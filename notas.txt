@@ -1,0 +1,12 @@
+            <div class="col m4 s12">
+                <div class="card">
+                    <div class="card-image">
+                        <img class="card__image" src="../assets/img/pendientes.jpg" alt="Pendientes">
+                        <span class="card-title">Pendientes</span>
+                    </div>
+                    <div class="card-content">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt dolore, omnis officia
+                            voluptatibus ab facilis facere</p>
+                    </div>
+                </div>
+            </div>
